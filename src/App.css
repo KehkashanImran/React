@@ -1,0 +1,16 @@
+.App{
+text-align: center;
+display: flex;
+min-height: 100vh;
+align-items: center;
+justify-content: center;
+background-color: rgb(9, 19, 15);
+
+
+}
+.my-form,LoginForm,RegisterForm {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 1rem;
+}
